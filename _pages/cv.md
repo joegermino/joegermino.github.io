@@ -34,9 +34,15 @@ Education
 
 Publications
 ======
+  Coming Soon
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* CSE Teaching Fellowhsip, University of Notre Dame, 2022-2023
+* CSE Select Fellowship, University of Notre Dame, 2021
   
 <!-- Talks
 ======

@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student in Computer Science and Engineering at the University of Notre Dame, supervised by Prof. Nitesh Chawla. My research interestes include interpretable machine learning and fairness.
+I am a third year PhD student in Computer Science and Engineering at the University of Notre Dame, supervised by Prof. Nitesh Chawla. My research focuses on Responsible AI with a special interest in interpretabile machine learning and fairness.
