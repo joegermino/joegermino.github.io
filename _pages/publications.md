@@ -4,9 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Coming soon
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -14,4 +13,4 @@ Coming soon
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}

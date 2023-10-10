@@ -85,7 +85,7 @@ author:
   # bio              : "Your biography for the left-hand sidebar"
   location         : "Notre Dame, IN"
   employer         :
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dh4_drIAAAAJ&hl=en&oi=sra"
   email            : "jgermino@nd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
