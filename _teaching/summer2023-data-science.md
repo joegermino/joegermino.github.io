@@ -2,9 +2,9 @@
 title: "Data Science"
 collection: teaching
 type: "Undergraduate/Graduate course"
-permalink: /teaching/2023-summer-data-science
+permalink: /teaching/summer2023-data-science
 venue: "University of Notre Dame, Computer Science and Engineering"
-date: "Summer 2023"
+date: 2023-06-01
 location: "Notre Dame, IN, USA"
 ---
 
