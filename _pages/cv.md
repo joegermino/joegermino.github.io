@@ -40,7 +40,7 @@ Publications
 
 Awards
 ======
-* CSE Teaching Fellowhsip, University of Notre Dame, 2022-2023
+* CSE Teaching Fellowship, University of Notre Dame, 2022-2023
 * CSE Select Fellowship, University of Notre Dame, 2021
   
 <!-- Talks

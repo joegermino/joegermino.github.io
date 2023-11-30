@@ -1,5 +1,5 @@
 ---
-title: "A Community Focused Approach Towards Making Healthy and Affordable Daily Diet Recommendations"
+title: "Fairness-Aware Mixture of Experts with Interpretability Budgets"
 collection: publications
 permalink: /publication/2023_FairMOE
 excerpt: 'In this paper, we argue that interpretability should not be viewed as a binary aspect and that, instead, it should be viewed as a continuous domain-informed notion. With this aim, we leverage the well-known Mixture of Experts architecture with user-defined budgets for the controlled use of non-interpretable models. We extend this idea with a counterfactual fairness module to ensure the selection of consistently <i>fair</i> experts: <b>FairMOE</b>.'
