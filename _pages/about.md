@@ -9,4 +9,4 @@ redirect_from:
 ---
 I am a Post Doctoral Research Associate at the University of Notre Dame. My PhD is in Computer Science and Engineering supervised by Dr. Nitesh Chawla and Dr. Nuno Moniz. My research focuses on Responsible AI with a special interest in interpretable machine learning, imbalance, and fairness.
 
-In my spare time, I enjoy writing about Machine Learning in the context of baseball. My projects are available at my Substack: https://joegermino.substack.com/
+In my spare time, I enjoy writing about Machine Learning in the context of baseball. My projects are available on [Substack.](https://joegermino.substack.com/)
