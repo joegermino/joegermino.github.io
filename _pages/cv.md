@@ -13,7 +13,7 @@ Education
 ======
 * BBA in Finance, University of Notre Dame, 2015
 * MS in Computer Science, University of Chicago, 2020
-* PhD Student in Computer Science and Engineering, University of Notre Dame, Expected Graduation 2025
+* PhD Student in Computer Science and Engineering, University of Notre Dame, 2025
 
 <!-- Work experience
 ======
